@@ -8,7 +8,7 @@ main:
  # - title: "External Link"
  #   url: https://google.com
 
-sidebar:
+docs:
   - title: Getting Started
     children:
 
