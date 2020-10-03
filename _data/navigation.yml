@@ -7,3 +7,12 @@ main:
     url: /categories/
  # - title: "External Link"
  #   url: https://google.com
+
+docs:
+  - title: Getting Started
+    children:
+
+  - title: Misc
+    children:
+      - title: "intro"
+        url: misc/introduction/
